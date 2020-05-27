@@ -1,0 +1,52 @@
+
+00:00:00 - Introduction
+00:01:22 - Python Introduction
+00:04:15 - hello.py
+00:08:44 - Python Introduction, continued         与c的区别
+
+00:17:58 - Data Types in Python                 python的数据类型
+
+
+00:21:48 - blur.py                        3行代码对图片进行模糊处理
+00:24:30 - dictionary.py                 pset在python上的实现
+00:28:57 - speller.py           c的执行速度与python的执行速度对比（检查莎士比亚的拼错单词数）
+
+00:31:36 - string.c and string.py
+00:34:18 - int.c and int.py                 各种c与python的代码对比
+00:35:48 - conditiions,c
+00:37:15 - agree.c and agree.py
+
+00:44:01 - cough.py                       解释器对-->函数出现的顺序
+00:52:00 - positive.c and positive.py       python没有dowhile
+
+00:57:09 - mario.py                   python的函数命名参数：end=“”
+
+中场休息
+
+01:02:53 - int.py                        input()函数获取用户输入
+01:05:16 - overflow.c and overflow.py     没有int溢出
+01:07:43 - scores.c and scores.py          list可变长，还可以直接赋值
+01:09:55 - string.c and string.py          for c in s
+01:12:05 - uppercase.py                  string类型自带了upper()函数
+01:13:10 - argv.py                       遍历打印出命令行参数
+01:15:46 - exit.c and exit.py              exit()函数
+01:17:24 - names.py                       简洁性的体现
+
+01:19:39 - phonebook.c and phonebook.py   字典、键值对、索引
+
+01:25:20 - compare.c and compare.py        真.字符串对比（而不是字符串的指针对比）
+
+01:27:02 - swap.c and swap.py              清爽的swap
+01:28:12 - phonebook.c, phonebook.py, and phonebook.csv   往文件里写入一行一行数据
+
+------------------------------------------------------------------------------
+
+01:33:24 - Regular Expressions    正则表达式
+
+
+01:38:37 - voice.py            交互_语音识别
+01:43:17 - voices2.py          交互_语音识别,并做出反应
+01:44:04 - voices3.py          交互_语音识别,用正则表达式对语音进行搜索，做出反应
+
+01:44:52 - Faces               检测人脸
+01:46:37 - qr.py               QR code，生成二维码
